@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T20:01:27 EST" name="Default suite" finished-at="2025-12-03T20:06:49 EST" duration-ms="322174">
+    <groups>
+    </groups>
+    <test started-at="2025-12-03T20:01:27 EST" name="Default test" finished-at="2025-12-03T20:06:49 EST" duration-ms="322174">
+      <class name="ojt.Home">
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:01:27 EST" name="openSite" finished-at="2025-12-03T20:01:35 EST" duration-ms="7901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyTitle()[pri:1, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:01:35 EST" name="verifyTitle" finished-at="2025-12-03T20:01:35 EST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:01:35 EST" name="closeSite" finished-at="2025-12-03T20:01:47 EST" duration-ms="12043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:01:47 EST" name="openSite" finished-at="2025-12-03T20:01:50 EST" duration-ms="3081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyReadMore1()[pri:2, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:01:50 EST" name="verifyReadMore1" finished-at="2025-12-03T20:02:01 EST" duration-ms="11051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReadMore1 -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:01 EST" name="closeSite" finished-at="2025-12-03T20:02:11 EST" duration-ms="10397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:11 EST" name="openSite" finished-at="2025-12-03T20:02:15 EST" duration-ms="3749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyReadMore2()[pri:3, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:15 EST" name="verifyReadMore2" finished-at="2025-12-03T20:02:26 EST" duration-ms="10929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReadMore2 -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:26 EST" name="closeSite" finished-at="2025-12-03T20:02:36 EST" duration-ms="10142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:36 EST" name="openSite" finished-at="2025-12-03T20:02:39 EST" duration-ms="3133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="bookAppointment()[pri:4, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:39 EST" name="bookAppointment" finished-at="2025-12-03T20:02:50 EST" duration-ms="10556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookAppointment -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:02:50 EST" name="closeSite" finished-at="2025-12-03T20:03:00 EST" duration-ms="10098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:00 EST" name="openSite" finished-at="2025-12-03T20:03:05 EST" duration-ms="4594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="CASAMediExam()[pri:5, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:05 EST" name="CASAMediExam" finished-at="2025-12-03T20:03:16 EST" duration-ms="11554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CASAMediExam -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:16 EST" name="closeSite" finished-at="2025-12-03T20:03:26 EST" duration-ms="10268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:26 EST" name="openSite" finished-at="2025-12-03T20:03:30 EST" duration-ms="3222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="BeforeMediExam()[pri:6, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:30 EST" name="BeforeMediExam" finished-at="2025-12-03T20:03:33 EST" duration-ms="3202" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Before attending your medical examination"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d1549c490a99259c1518ee018b23f4e, findElement {using=link text, value=Before attending your medical examination}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\athir\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49354}, goog:processID: 21656, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49354/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d1549c490a99259c1518ee018b23f4e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Before attending your medical examination"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d1549c490a99259c1518ee018b23f4e, findElement {using=link text, value=Before attending your medical examination}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\athir\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49354}, goog:processID: 21656, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49354/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d1549c490a99259c1518ee018b23f4e
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at ojt.Home.BeforeMediExam(Home.java:106)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMediExam -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:33 EST" name="closeSite" finished-at="2025-12-03T20:03:43 EST" duration-ms="10683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:43 EST" name="openSite" finished-at="2025-12-03T20:03:47 EST" duration-ms="3439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="FatigueRM()[pri:7, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:47 EST" name="FatigueRM" finished-at="2025-12-03T20:03:58 EST" duration-ms="10689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FatigueRM -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:03:58 EST" name="closeSite" finished-at="2025-12-03T20:04:08 EST" duration-ms="10425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:08 EST" name="openSite" finished-at="2025-12-03T20:04:12 EST" duration-ms="3618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="OccuHS()[pri:8, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:12 EST" name="OccuHS" finished-at="2025-12-03T20:04:23 EST" duration-ms="10859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OccuHS -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:23 EST" name="closeSite" finished-at="2025-12-03T20:04:33 EST" duration-ms="10436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:33 EST" name="openSite" finished-at="2025-12-03T20:04:37 EST" duration-ms="4488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="AllServices()[pri:9, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:37 EST" name="AllServices" finished-at="2025-12-03T20:04:49 EST" duration-ms="11777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllServices -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:04:49 EST" name="closeSite" finished-at="2025-12-03T20:05:00 EST" duration-ms="10333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:00 EST" name="openSite" finished-at="2025-12-03T20:05:03 EST" duration-ms="3828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="ExpertAviMed()[pri:10, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:03 EST" name="ExpertAviMed" finished-at="2025-12-03T20:05:14 EST" duration-ms="10302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExpertAviMed -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:14 EST" name="closeSite" finished-at="2025-12-03T20:05:24 EST" duration-ms="10483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:24 EST" name="openSite" finished-at="2025-12-03T20:05:28 EST" duration-ms="4154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="PersonalPlans()[pri:11, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:28 EST" name="PersonalPlans" finished-at="2025-12-03T20:05:39 EST" duration-ms="10728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalPlans -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:39 EST" name="closeSite" finished-at="2025-12-03T20:05:49 EST" duration-ms="10321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:49 EST" name="openSite" finished-at="2025-12-03T20:05:54 EST" duration-ms="4406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="ConTeleHealthOp()[pri:12, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:05:54 EST" name="ConTeleHealthOp" finished-at="2025-12-03T20:06:04 EST" duration-ms="10536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConTeleHealthOp -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:04 EST" name="closeSite" finished-at="2025-12-03T20:06:15 EST" duration-ms="10302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:15 EST" name="openSite" finished-at="2025-12-03T20:06:19 EST" duration-ms="3975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyScrollToTopIconDisplay()[pri:13, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:19 EST" name="verifyScrollToTopIconDisplay" finished-at="2025-12-03T20:06:21 EST" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollToTopIconDisplay -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:21 EST" name="closeSite" finished-at="2025-12-03T20:06:32 EST" duration-ms="10773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:32 EST" name="openSite" finished-at="2025-12-03T20:06:35 EST" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyScrollToTopIconFun()[pri:14, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:35 EST" name="verifyScrollToTopIconFun" finished-at="2025-12-03T20:06:37 EST" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollToTopIconFun -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ojt.Home@449a4f23]" started-at="2025-12-03T20:06:37 EST" name="closeSite" finished-at="2025-12-03T20:06:49 EST" duration-ms="11588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- ojt.Home -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
